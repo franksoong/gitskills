@@ -2,7 +2,11 @@ creating a new branch is quick and simple.
 test branch
 test stash
 
+
 hi
 
 test pull
+
+
+git issue 001 fixed
 
