@@ -1,5 +1,7 @@
 creating a new branch is quick and simple.
 test branch
+test stash
 
 
 git issue 001 fixed
+
