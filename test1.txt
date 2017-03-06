@@ -10,3 +10,5 @@ test pull
 
 git issue 001 fixed
 
+
+add config
