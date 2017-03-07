@@ -16,5 +16,3 @@ add config from me
 modify from local soong.
 
 hi from featuer1 and dev1
-
-hi from feature2 and dev2
