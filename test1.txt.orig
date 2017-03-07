@@ -13,16 +13,16 @@ git issue 001 fixed
 
 add config from me
 
-<<<<<<< HEAD
-modify from local soong.
+modify from local soong.  here is online modify.
 
 hi from featuer1 and dev1
 
 hi from feature2 and dev2
-=======
-modify from local soong.  here is online modify.
-
-
 
 hi form line1!
->>>>>>> d1d42ab1062ff90336adb94ef8783073a6125807
+
+<<<<<<< HEAD
+soong edit1 local
+=======
+soong edit1 online
+>>>>>>> e00f48704396fd7d82d696aaee648f8ea1a72750
