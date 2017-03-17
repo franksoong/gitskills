@@ -22,3 +22,6 @@ hi from feature2 and dev2
 hi form line1!
 
 soong edit1 local
+
+20170317
+Creating a new branch is quick.
